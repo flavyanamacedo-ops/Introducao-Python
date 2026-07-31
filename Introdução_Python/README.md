@@ -4,7 +4,7 @@ Repositório criado para registrar minha evolução nos estudos da linguagem Pyt
 
 ## 📚 Sobre o projeto
 
-Este projeto reúne exercícios, práticas e desafios desenvolvidos para fortalecer minha base em lógica de programação e fundamentos do Python.
+Este projeto reúne exercícios, práticas e desafios desenvolvidos para fortalecer minha base em lógica de programação e fundamentos da linguagem Python.
 
 ## 🎯 Objetivos
 
