@@ -1,36 +1,50 @@
-# Introdução ao Python
+# 🐍 Introdução ao Python
 
-Este repositório reúne meus estudos de Python durante minha formação em programação e Engenharia de Dados.
+Repositório criado para registrar minha evolução nos estudos da linguagem Python durante minha formação em programação e Engenharia de Dados.
 
-## Objetivos
+## 📚 Sobre o projeto
 
-- Aprender os fundamentos da linguagem Python.
-- Praticar lógica de programação.
-- Resolver exercícios e desafios.
-- Registrar minha evolução ao longo dos estudos.
+Este projeto reúne exercícios, práticas e desafios desenvolvidos para fortalecer minha base em lógica de programação e fundamentos do Python.
 
-## Conteúdo
+## 🎯 Objetivos
 
-- Variáveis
-- Tipos de dados
-- Entrada e saída
-- Operadores
-- Estruturas condicionais
-- Estruturas de repetição
-- Listas
-- Tuplas
-- Dicionários
-- Conjuntos
-- Exercícios
-- Desafios
+- Desenvolver raciocínio lógico de programação;
+- Aprender os fundamentos da linguagem Python;
+- Praticar resolução de problemas;
+- Criar uma base para desenvolvimento e Engenharia de Dados.
 
-## Tecnologias
+## 📝 Conteúdos estudados
 
-- Python 3
-- Visual Studio Code
-- Git
-- GitHub
+### Fundamentos
+- Variáveis;
+- Tipos de dados;
+- Entrada e saída de dados;
+- Operadores.
 
----
+### Estruturas de controle
+- Condicionais (`if`, `elif`, `else`);
+- Estruturas de repetição (`for`, `while`).
 
-📚 Repositório em constante atualização conforme avanço nos estudos.
+### Estruturas de dados
+- Listas;
+- Tuplas;
+- Dicionários;
+- Conjuntos.
+
+### Prática
+- Exercícios;
+- Desafios;
+- Resolução de problemas.
+
+## 🛠️ Tecnologias utilizadas
+
+- Python 3;
+- Visual Studio Code;
+- Git;
+- GitHub.
+
+## 🚀 Minha evolução
+
+Este repositório faz parte da minha jornada de transição de carreira para a área de tecnologia, com foco em desenvolvimento, dados e aprendizado contínuo.
+
+📌 Projeto em constante atualização conforme avanço nos estudos.
