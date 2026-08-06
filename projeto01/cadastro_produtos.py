@@ -8,10 +8,11 @@ while continuar == 's':
 
     if quantidade <= 0:
         print('Quantidade inválida.')
-    else:
-        if preco_produto <= 0:
+
+    elif preco_produto <= 0:
             print('Preço inválido.')
-        else:
+
+    else:
             valor_total = preco_produto * quantidade
 
             print('\n--- RESUMO DO PRODUTO ---')
