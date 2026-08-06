@@ -1,6 +1,11 @@
 continuar = 's'
 while continuar == 's':
     codigo_produto = input('Código do produto: ')
+
+    if codigo_produto == '':
+        print('Codigo Invalido.')
+        continue
+
     nome_produto = input('Nome do produto: ')
     preco_produto = float(input('Preço do produto: '))
     quantidade = int(input('Quantidade do produto: '))
